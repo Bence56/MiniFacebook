@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1543075035 source:c:\users\bsfcb\desktop\nhf\ismer.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"navigal.h"
+
+1542987364 c:\users\bsfcb\desktop\nhf\main.h
+
+1543087861 source:c:\users\bsfcb\desktop\nhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"main.h"
+	"navigal.h"
+	"regisztracio.h"
+	"bejelentkezes.h"
+
+1543073357 source:c:\users\bsfcb\desktop\nhf\bejelentkezes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1543141970 source:c:\users\bsfcb\desktop\nhf\regisztracio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1543099043 source:c:\users\bsfcb\desktop\nhf\menupontok.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"navigal.h"
+	"segedfuggvenyek.h"
+
+1543076273 c:\users\bsfcb\desktop\nhf\navigal.h
+	"main.h"
+
+1543075899 source:c:\users\bsfcb\desktop\nhf\segedfuggvenyek.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"navigal.h"
+
+1543076418 c:\users\bsfcb\desktop\nhf\regisztracio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1543157974 c:\users\bsfcb\desktop\nhf\bejelentkezes.h
+
+1543141927 source:c:\users\bsfcb\desktop\nhf\navigal.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"navigal.h"
+	"menupontok.h"
+	"segedfuggvenyek.h"
+
+1543076206 c:\users\bsfcb\desktop\nhf\menupontok.h
+
+1543076035 c:\users\bsfcb\desktop\nhf\segedfuggvenyek.h
+
